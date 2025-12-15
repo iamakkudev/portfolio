@@ -10,7 +10,7 @@ const Skills = () => {
         exit={{ scaleY: 0, opacity: 0 }}
         transition={{ duration: 0.2, ease: "easeOut" }}
         style={{ transformOrigin: "top" }}
-        className=" "
+        className=" header_prop"
       >
         <motion.div
           initial={{ opacity: 0, y: 20 }}
@@ -93,19 +93,25 @@ const Skills = () => {
 
         <div className="w-full flex flex-col sm:flex-row gap-6 justify-center items-center">
           {/* Frontend */}
-          <div className="w-64 flex flex-col items-center gap-3 p-4 trans-pannel-min-shadow">
+          <div
+            className="w-64 flex flex-col items-center gap-3 p-4 trans-pannel-min-shadow"
+          >
             <h2 className="text-2xl font-semibold">Frontend</h2>
             <CircularProgress value={80} />
           </div>
 
           {/* Backend */}
-          <div className="w-64 flex flex-col items-center gap-3 p-4 trans-pannel-min-shadow">
+          <div
+            className="w-64 flex flex-col items-center gap-3 p-4 trans-pannel-min-shadow"
+          >
             <h2 className="text-2xl font-semibold">Backend</h2>
             <CircularProgress value={90} />
           </div>
 
           {/* DSA */}
-          <div className="w-64 flex flex-col items-center gap-3 p-4 trans-pannel-min-shadow">
+          <div
+            className="w-64 flex flex-col items-center gap-3 p-4 trans-pannel-min-shadow"
+          >
             <h2 className="text-2xl font-semibold">DSA</h2>
             <CircularProgress value={40} />
           </div>
