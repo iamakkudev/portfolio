@@ -23,16 +23,12 @@ A personal portfolio built to showcase my skills, projects, and growth as a full
 
 ## 🛠 Tech Stack
 
--React
-
--React Router DOM
-
--Tailwind CSS
-
--Framer Motion
-
--Lucide React
-Formspree
+- React
+- React Router DOM
+- Tailwind CSS
+- Framer Motion
+- Lucide React
+- Formspree
 
 ## 📂 Structure
 
