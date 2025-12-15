@@ -36,7 +36,7 @@ Formspree
 
 ## 📂 Structure
 
-`````src/
+```src/
 ├── components/
 ├── pages/
 ├── assets/
@@ -47,7 +47,7 @@ public/
 
 ## 🚀 Run Locally
 
-````git clone https://github.com/your-username/portfolio.git
+```git clone https://github.com/your-username/portfolio.git
 cd portfolio
 npm install
 npm run dev```
@@ -59,4 +59,4 @@ This project reflects my approach to frontend development — focusing on usabil
 ## 📬 Contact
 
 You can reach me directly through the contact form on the website or via email.
-`````
+
