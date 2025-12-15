@@ -36,7 +36,7 @@ Formspree
 
 ## 📂 Structure
 
-src/
+`````src/
 ├── components/
 ├── pages/
 ├── assets/
@@ -59,3 +59,4 @@ This project reflects my approach to frontend development — focusing on usabil
 ## 📬 Contact
 
 You can reach me directly through the contact form on the website or via email.
+`````
